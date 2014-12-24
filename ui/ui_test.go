@@ -2,8 +2,8 @@ package ui
 
 import (
 	"testing"
-	. "github.com/dahenson/agenda/types"
-	"github.com/dahenson/agenda/testutils"
+	. "github.com/ttysteale/agenda/types"
+	"github.com/ttysteale/agenda/testutils"
 )
 
 type Context struct {

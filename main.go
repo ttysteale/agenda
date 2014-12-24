@@ -1,10 +1,10 @@
 package main
 
 import (
-	. "github.com/dahenson/agenda/app"
-	. "github.com/dahenson/agenda/fs"
-	"github.com/dahenson/agenda/itemstore"
-	"github.com/dahenson/agenda/ui/widgets"
+	. "github.com/ttysteale/agenda/app"
+	. "github.com/ttysteale/agenda/fs"
+	"github.com/ttysteale/agenda/itemstore"
+	"github.com/ttysteale/agenda/ui/widgets"
 	"log"
 	"os"
 	"path/filepath"

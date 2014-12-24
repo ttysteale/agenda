@@ -2,9 +2,9 @@ package itemstore
 
 import (
 	"fmt"
-	"github.com/dahenson/agenda/fs"
-	"github.com/dahenson/agenda/testutils"
-	. "github.com/dahenson/agenda/types"
+	"github.com/ttysteale/agenda/fs"
+	"github.com/ttysteale/agenda/testutils"
+	. "github.com/ttysteale/agenda/types"
 	"testing"
 )
 

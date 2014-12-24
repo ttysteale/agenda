@@ -1,7 +1,7 @@
 package widgets
 
 import (
-	"github.com/dahenson/agenda/ui"
+	"github.com/ttysteale/agenda/ui"
 	"github.com/weberc2/gotk3/gtk"
 	"log"
 )

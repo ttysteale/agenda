@@ -2,9 +2,9 @@ package app
 
 import (
 	"fmt"
-	. "github.com/dahenson/agenda/testutils"
-	. "github.com/dahenson/agenda/types"
-	"github.com/dahenson/agenda/ui"
+	. "github.com/ttysteale/agenda/testutils"
+	. "github.com/ttysteale/agenda/types"
+	"github.com/ttysteale/agenda/ui"
 	"testing"
 )
 

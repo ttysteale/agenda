@@ -2,7 +2,7 @@ package testutils
 
 import (
 	"fmt"
-	. "github.com/dahenson/agenda/types"
+	. "github.com/ttysteale/agenda/types"
 )
 
 type FakeListStore struct {

@@ -1,9 +1,9 @@
 package app
 
 import (
-	"github.com/dahenson/agenda/itemstore"
-	. "github.com/dahenson/agenda/types"
-	"github.com/dahenson/agenda/ui"
+	"github.com/ttysteale/agenda/itemstore"
+	. "github.com/ttysteale/agenda/types"
+	"github.com/ttysteale/agenda/ui"
 	"log"
 )
 

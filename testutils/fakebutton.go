@@ -1,6 +1,6 @@
 package testutils
 
-import . "github.com/dahenson/agenda/ui/uicallbacks"
+import . "github.com/ttysteale/agenda/ui/uicallbacks"
 
 type FakeAddButton struct {
         callback AddCallback

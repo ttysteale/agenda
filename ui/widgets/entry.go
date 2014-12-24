@@ -2,7 +2,7 @@ package widgets
 
 import (
 	"github.com/weberc2/gotk3/gtk"
-	. "github.com/dahenson/agenda/ui/uicallbacks"
+	. "github.com/ttysteale/agenda/ui/uicallbacks"
 )
 
 type Entry struct {

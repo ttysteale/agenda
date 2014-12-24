@@ -1,8 +1,8 @@
 package ui
 
 import (
-	. "github.com/dahenson/agenda/types"
-	. "github.com/dahenson/agenda/ui/uicallbacks"
+	. "github.com/ttysteale/agenda/types"
+	. "github.com/ttysteale/agenda/ui/uicallbacks"
 )
 
 type Ui interface {

@@ -2,8 +2,8 @@ package itemstore
 
 import (
 	"encoding/json"
-	. "github.com/dahenson/agenda/types"
-	"github.com/dahenson/agenda/fs"
+	. "github.com/ttysteale/agenda/types"
+	"github.com/ttysteale/agenda/fs"
 )
 
 // ItemStore exists to persist a memory model

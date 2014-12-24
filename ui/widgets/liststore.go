@@ -2,7 +2,7 @@ package widgets
 
 import (
 	"fmt"
-	. "github.com/dahenson/agenda/types"
+	. "github.com/ttysteale/agenda/types"
 	"github.com/weberc2/gotk3/gtk"
 	"log"
 	"time"
